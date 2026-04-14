@@ -1,0 +1,1 @@
+const firebaseConfig={apiKey:"YOUR_KEY"};firebase.initializeApp(firebaseConfig);
