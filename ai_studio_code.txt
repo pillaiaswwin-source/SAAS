@@ -1,6 +1,1 @@
-name = "depot-track"
-compatibility_date = "2024-04-10"
-pages_build_output_dir = "dist"
 
-[vars]
-# VITE_TURNSTILE_SITE_KEY = "your-site-key"
